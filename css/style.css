@@ -1,37 +1,3 @@
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/agilie/Rails-Application-Template)
-
-# Animated Toggle Menu
-
-Hi, guys!
-
-We’re happy to share our new free open-source Animated Toggle Menu that can be helpful for creating websites. It’s lightweight, easy-to-use and requires minimum lines of code.
-Feel free to take full advantage of it during the web site development.
-
-## How to use?
-
-Animated Toggle Menu uses css3 animations, as well as the jQuery library.
-To take the full use of the menu, add the following block after opening the  `<body>` tag:
-```javascript
-<div class=“menu-overlay”></div>
-```
-In order to add the menu itself, you need this code:
-```javascript
-<div class="menu"> 
-    <div class="hamburger-menu-wrapper">
-        <button class="hamburger-menu">
-            <span>toggle menu</span>
-        </button>
-    </div>
-    <div class="menu-list">
-        <a href="#">Link 1</a><br>
-        <a href="#">Link 2</a><br>
-        <a href="#">Link 3</a><br>
-        <a href="#">Link 4</a><br>
-    </div>
-</div>
-```
-Add CSS:
-```javascript
 /* Base layout */
 
 body,html{
@@ -195,24 +161,3 @@ body{
         transform: rotate(0);
     }
 }
-```
-
-And, of course, don’t forget to connect [jQuery library](https://cdnjs.com/libraries/jquery/)
-
-
-## Demo
-
-## Troubleshooting
-Problems? Check the Issues block to find the solution or create an [new issue](https://github.com/agilie/science-fiction-magazines-blog/issues) that we will fix asap. Feel free to contribute.
-
-## Author
-This template is open-sourced by [Agilie Team](https://agilie.com/en/index) <a href="mailto:info@agilie.com">info@agilie.com</a>
-
-## Contributors
-[Tatiana Kushnir](https://github.com/tatiana-kushnir-89) - <a href="mailto:tatiana.kushnir@agilie.com">tatiana.kushnir@agilie.com</a>
-
-## License
-
-The <a href="/agilie/Bouncing-Carousel/blob/master/LICENSE.MD">MIT</a> License (MIT) Copyright © 2017 [Agilie Team](https://agilie.com/en/index)
-
-
