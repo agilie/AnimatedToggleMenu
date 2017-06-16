@@ -7,6 +7,7 @@ Hi, guys!
 We’re happy to share our new free open-source Animated Toggle Menu that can be helpful for creating websites. It’s lightweight, easy-to-use and requires minimum lines of code.
 Feel free to take full advantage of it during the web site development.
 ![Animated Toggle Menu Preview](https://cdn.dribbble.com/users/739323/screenshots/2134492/yes_2.gif)
+(concept image)
 
 ## How to use?
 
