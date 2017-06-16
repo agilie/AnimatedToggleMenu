@@ -6,12 +6,13 @@ Hi, guys!
 
 We’re happy to share our new free open-source Animated Toggle Menu that can be helpful for creating websites. It’s lightweight, easy-to-use and requires minimum lines of code.
 Feel free to take full advantage of it during the web site development.
+![Animated Toggle Menu Preview](https://cdn.dribbble.com/users/739323/screenshots/2134492/yes_2.gif)
 
 ## How to use?
 
 Animated Toggle Menu uses css3 animations, as well as the jQuery library.
 To take the full use of the menu, add the following block after opening the  `<body>` tag:
-```javascript
+```css
 <div class=“menu-overlay”></div>
 ```
 In order to add the menu itself, you need this code:
@@ -31,7 +32,7 @@ In order to add the menu itself, you need this code:
 </div>
 ```
 Add CSS:
-```javascript
+```css
 /* Base layout */
 
 body,html{
@@ -201,9 +202,10 @@ And, of course, don’t forget to connect [jQuery library](https://cdnjs.com/lib
 
 
 ## Demo
+[https://agilie.github.io/AnimatedToggleMenu/](https://agilie.github.io/AnimatedToggleMenu/)
 
 ## Troubleshooting
-Problems? Check the Issues block to find the solution or create an [new issue](https://github.com/agilie/science-fiction-magazines-blog/issues) that we will fix asap. Feel free to contribute.
+Problems? Check the Issues block to find the solution or create an [new issue](https://github.com/agilie/AnimatedToggleMenu/issues) that we will fix asap. Feel free to contribute.
 
 ## Author
 This template is open-sourced by [Agilie Team](https://agilie.com/en/index) <a href="mailto:info@agilie.com">info@agilie.com</a>
@@ -214,5 +216,4 @@ This template is open-sourced by [Agilie Team](https://agilie.com/en/index) <a h
 ## License
 
 The <a href="/agilie/Bouncing-Carousel/blob/master/LICENSE.MD">MIT</a> License (MIT) Copyright © 2017 [Agilie Team](https://agilie.com/en/index)
-
 
